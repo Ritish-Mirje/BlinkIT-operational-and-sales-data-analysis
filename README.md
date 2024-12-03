@@ -1,1 +1,1 @@
-# https-github.com-ShivanandGuraddi-BlinkIT-operational-and-sales-data-analysis
+BlinkIT-operational-and-sales-data-analysis
